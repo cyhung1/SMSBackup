@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMS Backup by Ranic</string>
+    <string name="button_backup">Backup SMS</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
